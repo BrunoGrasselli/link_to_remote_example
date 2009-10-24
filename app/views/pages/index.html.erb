@@ -1,0 +1,7 @@
+<%= javascript_include_tag :defaults %>
+
+<h1>Link to remote with loading</h1>
+<p>
+	<%= link_to_remote 'Click here', :update => :result, :url => {:action => :remote}, :loading => 'document.getElementById("result").innerHTML = "Loading..."' %>
+</p>
+<div id='result'></div>
