@@ -230,3 +230,80 @@ Processing PagesController#remote (for 127.0.0.1 at 2009-10-24 10:17:54) [POST]
   Parameters: {"authenticity_token"=>"Fm2hp0V7TX6qCkUPEaI/4Z6JoIFsiGwLjSKI5w5kFGM="}
 Rendering pages/remote
 Completed in 2003ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/remote]
+
+
+Processing PagesController#index (for 127.0.0.1 at 2009-10-25 12:17:56) [GET]
+Rendering pages/index
+Completed in 68ms (View: 66, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#remote (for 127.0.0.1 at 2009-10-25 12:18:03) [POST]
+  Parameters: {"authenticity_token"=>"YoQHko5YqyjkKARg7IA2k4USTSC6EUdPOvn+JI/2yFs="}
+Rendering pages/remote
+Completed in 2078ms (View: 76, DB: 0) | 200 OK [http://localhost/pages/remote]
+
+
+Processing PagesController#index (for 127.0.0.1 at 2009-10-25 12:20:47) [GET]
+Rendering pages/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#remote (for 127.0.0.1 at 2009-10-25 12:20:49) [POST]
+  Parameters: {"authenticity_token"=>"YoQHko5YqyjkKARg7IA2k4USTSC6EUdPOvn+JI/2yFs="}
+Rendering pages/remote
+Completed in 2003ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/remote]
+
+
+Processing PagesController#index (for 127.0.0.1 at 2009-10-25 12:21:25) [GET]
+Rendering pages/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#remote (for 127.0.0.1 at 2009-10-25 12:21:26) [POST]
+  Parameters: {"authenticity_token"=>"YoQHko5YqyjkKARg7IA2k4USTSC6EUdPOvn+JI/2yFs="}
+Rendering pages/remote
+Completed in 2003ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/remote]
+
+
+Processing PagesController#index (for 127.0.0.1 at 2009-10-25 12:21:38) [GET]
+Rendering pages/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#remote (for 127.0.0.1 at 2009-10-25 12:21:40) [POST]
+  Parameters: {"authenticity_token"=>"YoQHko5YqyjkKARg7IA2k4USTSC6EUdPOvn+JI/2yFs="}
+Rendering pages/remote
+Completed in 2003ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/remote]
+
+
+Processing PagesController#index (for 127.0.0.1 at 2009-10-25 12:22:58) [GET]
+Rendering pages/index
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#remote (for 127.0.0.1 at 2009-10-25 12:22:59) [POST]
+  Parameters: {"authenticity_token"=>"YoQHko5YqyjkKARg7IA2k4USTSC6EUdPOvn+JI/2yFs="}
+Rendering pages/remote
+Completed in 2003ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/remote]
+
+
+Processing PagesController#remote (for 127.0.0.1 at 2009-10-25 12:23:04) [POST]
+  Parameters: {"authenticity_token"=>"YoQHko5YqyjkKARg7IA2k4USTSC6EUdPOvn+JI/2yFs="}
+Rendering pages/remote
+Completed in 2003ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/remote]
+
+
+Processing PagesController#index (for 127.0.0.1 at 2009-10-25 12:23:11) [GET]
+Rendering pages/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing PagesController#remote (for 127.0.0.1 at 2009-10-25 12:23:13) [POST]
+  Parameters: {"authenticity_token"=>"YoQHko5YqyjkKARg7IA2k4USTSC6EUdPOvn+JI/2yFs="}
+Rendering pages/remote
+Completed in 2003ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/remote]
+
+
+Processing PagesController#index (for 127.0.0.1 at 2009-10-25 12:23:16) [GET]
+Rendering pages/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/]
