@@ -2,6 +2,8 @@
 
 <h1>Link to remote with loading</h1>
 <p>
-	<%= link_to_remote 'Click here', :update => :result, :url => {:action => :remote}, :loading => 'document.getElementById("result").innerHTML = "Loading..."' %>
+	<%= link_to_remote 'Click here', :update => :result, :url => {:action => :remote}, :loading => "$('loading').show();", :loaded => "$('loading').hide();" %>
+	
+	<span id='loading' style='display:none'><%= image_tag 'loading.gif' %></span>
 </p>
 <div id='result'></div>
