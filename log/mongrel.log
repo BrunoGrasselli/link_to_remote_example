@@ -89,3 +89,4 @@ Sat Oct 24 10:12:06 -0200 2009: Error calling Dispatcher.dispatch #<Mongrel::Tim
 ** Rails signals registered.  HUP => reload (without restart).  It might not work well.
 ** Mongrel 1.1.5 available at 0.0.0.0:3000
 ** Writing PID file to log/mongrel.pid
+** TERM signal received.
